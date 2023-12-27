@@ -122,6 +122,14 @@ git show -v commit_id
 ```
 git add file_name && git commit -m"message"
 ```
+### Add local git to Remote repository
+```
+git remote add origin github_repo_link
+```
+### Check the remote server is attached or not
+```
+git remote
+```
 ### Git push to Remote Repository:
 ```
 git push -u origin link
