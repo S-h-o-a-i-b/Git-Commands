@@ -120,7 +120,8 @@ git show -v commit_id
 ```
 ### Git add and commit together:
 ```
-git add file_name && git commit -m"message"
+1. git add file_name && git commit -m"message"
+2. git commit -am "message"
 ```
 ### Add local git to Remote repository
 ```
