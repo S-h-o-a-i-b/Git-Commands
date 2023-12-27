@@ -140,6 +140,11 @@ git clone link
 ```
 git branch
 ```
+### Branch name change :
+```
+git branch -m main
+```
+
 ### Create new Branch:
 ```
 git branch branch_name
